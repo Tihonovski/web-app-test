@@ -1,0 +1,9 @@
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+.menu { padding: 20px; background-color: #fff; }
+.menu-item { background-color: #00f; color: #fff; padding: 10px; margin-bottom: 5px; cursor: pointer; }
+.submenu { padding: 20px; background-color: #fff; }
+.submenu-item { background-color: #00f; color: #fff; padding: 10px; margin-bottom: 5px; cursor: pointer; }
+.details { padding: 20px; background-color: #fff; }
+.detail-item { margin-bottom: 5px; }
+.amount { font-size: 2em; }
